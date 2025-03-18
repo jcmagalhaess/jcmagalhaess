@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👋 Fala aí! Eu sou o Júlio Magalhães  
 
-<!--
-**jcmagalhaess/jcmagalhaess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Desenvolvedor Frontend Senior | Angular | Micro Frontends
 
-Here are some ideas to get you started:
+Sou um dev frontend que curte tecnologia e boas práticas de código. Trabalho com **Angular, APIs RESTful** e estou me aprofundando em **Micro Frontends**, com foco em Native Federation. Gosto de criar interfaces que sejam eficientes, escaláveis e, claro, de qualidade!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+💻 **Frontend:** Angular, TypeScript, JavaScript  
+📡 **APIs:** RESTful, GraphQL  
+⚙️ **DevOps & Ferramentas:** Docker, CI/CD, Jenkins  
+📦 **Micro Frontends:** Module Federation, Native Federation (Angular 16+)  
+🧪 **Testes:** Jasmine  
+
+---
+
+### 📈 Minhas Stats no GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SeuGitHub&show_icons=true&theme=dark&count_private=true)  
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuGitHub&layout=compact&theme=dark)  
+
+---
+
+### 💋 Bora trocar uma ideia?
+
+💼 [LinkedIn](#)  
+📧 [Email](mailto:seuemail@email.com)  
+🌐 [Portfólio](#)  
+
+Vamos criar algo daora juntos! 🚀
+
