@@ -18,9 +18,9 @@ Sou um dev frontend que curte tecnologia e boas práticas de código. Trabalho c
 
 ### 📈 Minhas Stats no GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SeuGitHub&show_icons=true&theme=dark&count_private=true)  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jcmagalhaess&show_icons=true&theme=dark&count_private=true)  
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuGitHub&layout=compact&theme=dark)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jcmagalhaess&layout=compact&theme=dark)  
 
 ---
 
