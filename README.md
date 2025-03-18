@@ -26,9 +26,8 @@ Sou um dev frontend que curte tecnologia e boas práticas de código. Trabalho c
 
 ### 💋 Bora trocar uma ideia?
 
-💼 [LinkedIn](#)  
-📧 [Email](mailto:seuemail@email.com)  
-🌐 [Portfólio](#)  
+💼 [LinkedIn](https://www.linkedin.com/in/julio-cesar-magalhaes/)
+📧 [Email](mailto:jcmagalhaes301@gmail.com)
 
 Vamos criar algo daora juntos! 🚀
 
